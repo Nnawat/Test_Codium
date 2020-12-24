@@ -1,0 +1,6 @@
+Number(4). (Python specific)Exception Handling between else and finally
+else - Catch errors from the execution of the program if there are errors from the execution of the program
+       Will alert the user and the program will stop working immediately.
+finally - Trap program errors as well, but ignore program errors so that the program
+       It can continue to run while still having an error and will inform the user that the running program has problems after
+       The program is running.
